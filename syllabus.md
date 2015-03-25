@@ -15,7 +15,7 @@
 ## Course Description
 The audience for this course is anyone interested in making, using, and analyzing maps/spatial data on the Web.
 
-## Coure Prerequisites
+## Course Prerequisites
 You've taken GEOG 5561 or some sort of Introductory GIS course  
 *--or--*  
 You're enrolled in the MGIS program  
