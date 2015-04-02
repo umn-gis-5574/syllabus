@@ -1,5 +1,6 @@
 # GIS 5574 - Web GIS and Services
-### University of Minnesota, Twin Cities
+
+## University of Minnesota, Twin Cities
 
 ----------
 
@@ -12,23 +13,27 @@
 **Office Hours**: Tuesdays 3:30 to 5 (and by appointment Mondays 1-2pm, Wednesdays and Thursdays 2-3pm, book a 30 minute slot on my [Google Calendar](https://www.google.com/calendar/selfsched?sstoken=UUNSN00zS0MyYmNtfGRlZmF1bHR8ZTRiNzY5NWJkNmEyY2M4NTI5N2QyN2Q0MzQ0ZjRkMzA) or just email me and we'll figure out a time)
 
 
-## Course Description
+### Course Description
+
 The audience for this course is anyone interested in making, using, and analyzing maps/spatial data on the Web. Rather than attempt to try *everything* out there in a single semester, we'll set the stage early in the semester with quick overviews and demo and then settle in to work on individual projects for the rest of the semester
 
-## Course Philosophy *(forgive the pretension)*
+### Course Philosophy *(forgive the pretension)*
+
 I want this class to be as accessible as possible. I don't want anyone to feel overwhelmed or utterly out of their depth. The nature of this class results in a highly variable group of students in terms of familiarity/comfort with the technologies we'll be talking about. Thus, I want the focus of the course to be how each individual can get what *they want* out of it. Grading exists because it's unfortunately part of the fabric of our education system, but I don't want any student fixating on a grade here. Rather, I'd like to ask each of you where you're coming from and where you'd like to go, then spend the semester getting there!
 
-## Course Prerequisites
+### Course Prerequisites
+
 You've taken GEOG 5561 or some sort of Introductory GIS course  
 *--or--*  
 You're enrolled in the MGIS program  
 *--or--*  
 You've contacted me
 
-## Course Suggest-quisites
+### Course Suggest-quisites
 
 
-### HTML/CSS/Javascript
+#### HTML/CSS/Javascript
+
 The course will involve some degree of writing code, *however*, there is no requirement that you have any experience with code coming in. That said, you will probably have a lot more fun (?!) in the class if you've at least dipped your toe into the wading pool that is HTML/CSS/Javascript (note the first of *many* strained metaphors).
 
 Some resources you *may* want to check out before we start meeting in September. Try 'em out and see which approach works best for your style of learning. I've not engaged much with them myself, but I've heard good things:
@@ -43,23 +48,49 @@ Some resources you *may* want to check out before we start meeting in September.
 
 \* Requires a UMN account or other access to Lynda.com resources
 
-### GitHub
+#### GitHub
+
 We'll be using GitHub for turning in work and collaborating. If you aren't familiar with it, I highly recommend trying to learn about it before the semester.
 
 + [Try Git](https://www.codeschool.com/courses/try-git)
 + [Learn Git](http://www.git-tower.com/learn/)
 + [Git - the simple guide (*some colorful language*)](http://rogerdudler.github.io/git-guide/)
 
-## Odds 'n Ends
+### Odds 'n Ends
 
-### GitHub Student Developer Pack
-Available for any student. I recommend signing up for it, as it's worth it if only for the $100 Digital Ocean credit. 
+#### GitHub Student Developer Pack
+
+Available for any student. I recommend signing up for it, as it's worth it if only for the $100 Digital Ocean credit.  
 https://education.github.com/pack
 
-### Using your own laptop
+#### Using your own laptop
+
 Since most of what we'll be working on is web-based, if you have a laptop you can use that for all of our assignments. That said, we will still meet in the 455 computer lab, so you definitely don't need a laptop. For installing stuff, it will be more flexible if you bring your own machine.
 
-## Boilerplate!
+### Tentatively tentative schedule (it's really tentative)
+
+| **Date**  | **Topic**                     | **Due**  |
+|:-------- :|:------------------------------|:----:|
+| **9/8**   |  Introductions                |     |
+| **9/15**  |                               |     |
+| **9/22**  |                               |     |
+| **9/29**  |                               |     |
+| **10/6**  |                               |     |
+| **10/13** |                               |     |
+| **10/20** |                               |     |
+| **10/27** |                               |     |
+| **11/3**  |                               |     |
+| **11/10** |                               |     |
+| **11/17** |                               |     |
+| **11/24** | No Class?                     | Nothing! |
+| **12/1**  |                               |     |
+| **12/8**  |                               |     |
+| **12/15** |                               |     |
+|           |                               |     |
+
+
+
+### Boilerplate!
 
 #### Student Conduct Code
 
