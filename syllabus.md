@@ -70,7 +70,7 @@ Since most of what we'll be working on is web-based, if you have a laptop you ca
 ### Tentatively tentative schedule (it's really tentative)
 
 | **Date**  | **Topic**                     | **Due**  |
-|:-------- :|:------------------------------|:----:|
+|:---------:|:--------------------------------|:----:|
 | **9/8**   |  Introductions                |     |
 | **9/15**  |                               |     |
 | **9/22**  |                               |     |
