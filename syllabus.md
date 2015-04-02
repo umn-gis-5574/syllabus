@@ -1,8 +1,9 @@
-# GIS 5574 -- Web GIS and Services
-#### University of Minnesota - Twin Cities
+# GIS 5574 - Web GIS and Services
+### University of Minnesota, Twin Cities
 
 ----------
-**Where?**: Blegen 455  
+
+**Where?**: Blegen Hall 455 (West Bank Campus)
 **When?**: Tuesdays 5:30 to 8:00pm
 
 **Instructor**: Kevin Dyke  
@@ -13,7 +14,10 @@
 
 
 ## Course Description
-The audience for this course is anyone interested in making, using, and analyzing maps/spatial data on the Web.
+The audience for this course is anyone interested in making, using, and analyzing maps/spatial data on the Web. Rather than attempt to try *everything* out there in a single semester, we'll set the stage early in the semester with quick overviews and demo and then settle in to work on individual projects for the rest of the semester
+
+## Course Philosophy *(forgive the pretension)*
+I want this class to be as accessible as possible. I don't want anyone to feel overwhelmed or utterly out of their depth. The nature of this class results in a highly variable group of students in terms of familiarity/comfort with the technologies we'll be talking about. Thus, I want the focus of the course to be how each individual can get what *they want* out of it. Grading exists because it's unfortunately part of the fabric of our education system, but I don't want any student fixating on a grade here. Rather, I'd like to ask each of you where you're coming from and where you'd like to go, then spend the semester getting there!
 
 ## Course Prerequisites
 You've taken GEOG 5561 or some sort of Introductory GIS course  
@@ -47,10 +51,18 @@ We'll be using GitHub for turning in work and collaborating. If you aren't famil
 + [Learn Git](http://www.git-tower.com/learn/)
 + [Git - the simple guide (*some colorful language*)](http://rogerdudler.github.io/git-guide/)
 
+## Odds 'n Ends
 
-## Delicious boilerplate
+### GitHub Student Developer Pack
+Available for any student. I recommend signing up for it, as it's worth it if only for the $100 Digital Ocean credit. 
+https://education.github.com/pack
 
-### Student Conduct Code
+### Using your own laptop
+Since most of what we'll be working on is web-based, if you have a laptop you can use that for all of our assignments. That said, we will still meet in the 455 computer lab, so you definitely don't need a laptop. For installing stuff, it will be more flexible if you bring your own machine.
+
+## Boilerplate!
+
+#### Student Conduct Code
 
 The University seeks an environment that promotes academic achievement and integrity, that is protective of free inquiry, and that serves the educational mission of the University. Similarly, the University seeks a community that is free from violence, threats, and intimidation; that is respectful of the rights, opportunities, and welfare of students, faculty, staff, and guests of the University; and that does not threaten the physical or mental health or safety of members of the University community.
 
@@ -58,50 +70,53 @@ As a student at the University you are expected adhere to Board of Regents Polic
 
 Note that the conduct code specifically addresses disruptive classroom conduct, which means "engaging in behavior that substantially or repeatedly interrupts either the instructor's ability to teach or student learning. The classroom extends to any setting where a student is engaged in work toward academic credit or satisfaction of program-based requirements or related activities."
 
-### Use of Personal Electronic Devices in the Classroom
+#### Use of Personal Electronic Devices in the Classroom
 
 Using personal electronic devices in the classroom setting can hinder instruction and learning, not only for the student using the device but also for other students in the class. To this end, the University establishes the right of each faculty member to determine if and how personal electronic devices are allowed to be used in the classroom. For complete information, please reference http://policy.umn.edu/Policies/Education/Education/STUDENTRESP.html.
 
-### Scholastic Dishonesty
+#### Scholastic Dishonesty
 
 You are expected to do your own academic work and cite sources as necessary. Failing to do so is scholastic dishonesty. Scholastic dishonesty means plagiarizing; cheating on assignments or examinations; engaging in unauthorized collaboration on academic work; taking, acquiring, or using test materials without faculty permission; submitting false or incomplete records of academic achievement; acting alone or in cooperation with another to falsify records or to obtain dishonestly grades, honors, awards, or professional endorsement; altering, forging, or misusing a University academic record; or fabricating or falsifying data, research procedures, or data analysis. (Student Conduct Code http://regents.umn.edu/sites/default/files/policies/Student_Conduct_Code.pdf) If it is determined that a student has cheated, he or she may be given an "F" or an "N" for the course, and may face additional sanctions from the University. For additional information, please see http://policy.umn.edu/Policies/Education/Education/INSTRUCTORRESP.html.
 
 The Office for Student Conduct and Academic Integrity has compiled a useful list of Frequently Asked Questions pertaining to scholastic dishonesty http://www1.umn.edu/oscai/integrity/student/index.html. If you have additional questions, please clarify with your instructor for the course. Your instructor can respond to your specific questions regarding what would constitute scholastic dishonesty in the context of a particular class-e.g., whether collaboration on assignments is permitted, requirements and methods for citing sources, if electronic aids are permitted or prohibited during an exam.
 
-### Makeup Work for Legitimate Absences
+#### Makeup Work for Legitimate Absences
 
 Students will not be penalized for absence during the semester due to unavoidable or legitimate circumstances. Such circumstances include verified illness, participation in intercollegiate athletic events, subpoenas, jury duty, military service, bereavement, and religious observances. Such circumstances do not include voting in local, state, or national elections. For complete information, please see http://policy.umn.edu/Policies/Education/Education/MAKEUPWORK.html.
 
-### Appropriate Student Use of Class Notes and Course Materials
+#### Appropriate Student Use of Class Notes and Course Materials
 
 Taking notes is a means of recording information but more importantly of personally absorbing and integrating the educational experience. However, broadly disseminating class notes beyond the classroom community or accepting compensation for taking and distributing classroom notes undermines instructor interests in their intellectual work product while not substantially furthering instructor and student interests in effective learning. Such actions violate shared norms and standards of the academic community. For additional information, please see http://policy.umn.edu/Policies/Education/Education/STUDENTRESP.html.
 
-### Grading and Transcripts
+#### Grading and Transcripts
 
 The University utilizes plus and minus grading on a 4.000 cumulative grade point scale in accordance with the following
 
-A   4.000 - Represents achievement that is outstanding relative to the level necessary to meet course requirements  
-A-  3.667  
-B+  3.333  
-B   3.000 - Represents achievement that is significantly above the level necessary to meet course requirements  
-B-  2.667  
-C+  2.333  
-C   2.000 - Represents achievement that meets the course requirements in every respect  
-C-  1.667  
-D+  1.333  
-D   1.000 - Represents achievement that is worthy of credit even though it fails to meet fully the course requirements  
-S   Represents achievement that is satisfactory, which is equivalent to a C- or better.  
+| Letter | GPA
+| ------ | -------
+| A      | 4.000 - Represents achievement that is outstanding relative to the level necessary to meet course requirements  
+| A-     | 3.667  
+| B+     | 3.333  
+| B      | 3.000 - Represents achievement that is significantly above the level necessary to meet course requirements  
+| B-     | 2.667  
+| C+     | 2.333  
+| C      | 2.000 - Represents achievement that meets the course requirements in every respect  
+| C-     | 1.667  
+| D+     | 1.333  
+| D      | 1.000 - Represents achievement that is worthy of credit even though it fails to meet fully the course requirements  
+| S      | Represents achievement that is satisfactory, which is equivalent to a C- or better.
+
 For additional information, please refer to http://policy.umn.edu/Policies/Education/Education/GRADINGTRANSCRIPTS.html.  
 
-### Sexual Harassment
+#### Sexual Harassment
 
 "Sexual harassment" means unwelcome sexual advances, requests for sexual favors, and/or other verbal or physical conduct of a sexual nature. Such conduct has the purpose or effect of unreasonably interfering with an individual's work or academic performance or creating an intimidating, hostile, or offensive working or academic environment in any University activity or program. Such behavior is not acceptable in the University setting. For additional information, please consult Board of Regents Policy http://regents.umn.edu/sites/default/files/policies/SexHarassment.pdf
 
-### Equity, Diversity, Equal Opportunity, and Affirmative Action
+#### Equity, Diversity, Equal Opportunity, and Affirmative Action
 
 The University provides equal access to and opportunity in its programs and facilities, without regard to race, color, creed, religion, national origin, gender, age, marital status, disability, public assistance status, veteran status, sexual orientation, gender identity, or gender expression. For more information, please consult Board of Regents Policy http://regents.umn.edu/sites/default/files/policies/Equity_Diversity_EO_AA.pdf.
 
-### Disability Accommodations
+#### Disability Accommodations
 
 The University of Minnesota is committed to providing equitable access to learning opportunities for all students. Disability Services (DS) is the campus office that collaborates with students who have disabilities to provide and/or arrange reasonable accommodations.
 
@@ -111,11 +126,11 @@ If you are registered with DS and have a current letter requesting reasonable ac
 
 For more information, please see the DS website, https://diversity.umn.edu/disability/.
 
-### Mental Health and Stress Management
+#### Mental Health and Stress Management
 
 As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance and may reduce your ability to participate in daily activities. University of Minnesota services are available to assist you. You can learn more about the broad range of confidential mental health services available on campus via the Student Mental Health Website http://www.mentalhealth.umn.edu.
 
-### Academic Freedom and Responsibility
+#### Academic Freedom and Responsibility
 
 Academic freedom is a cornerstone of the University. Within the scope and content of the course as defined by the instructor, it includes the freedom to discuss relevant matters in the classroom. Along with this freedom comes responsibility. Students are encouraged to develop the capacity for critical judgment and to engage in a sustained and independent search for truth. Students are free to take reasoned exception to the views offered in any course of study and to reserve judgment about matters of opinion, but they are responsible for learning the content of any course of study for which they are enrolled.*
 
