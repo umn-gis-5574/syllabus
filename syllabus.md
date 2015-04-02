@@ -3,9 +3,8 @@
 
 ----------
 
-**Where?**: Blegen Hall 455 (West Bank Campus)
-**When?**: Tuesdays 5:30 to 8:00pm
-
+**Where?**: Blegen Hall 455 (West Bank Campus)  
+**When?**: Tuesdays 5:30 to 8:00pm  
 **Instructor**: Kevin Dyke  
 **Email**: kevindyke@umn.edu  
 **Office**: Borchert Map Library (Wilson Library *sub*-basement)  
