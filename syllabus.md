@@ -1,8 +1,6 @@
 # GIS 5574 - Web GIS and Services
 
-## University of Minnesota, Twin Cities
-
-----------
+**University of Minnesota, Twin Cities**  
 
 **Where?**: Blegen Hall 455 (West Bank Campus)  
 **When?**: Tuesdays 5:30 to 8:00pm  
@@ -12,6 +10,30 @@
 **Office Phone**: 612.301.3932 (worth a shot, but email definitely preferred)  
 **Office Hours**: Tuesdays 3:30 to 5 (and by appointment Mondays 1-2pm, Wednesdays and Thursdays 2-3pm, book a 30 minute slot on my [Google Calendar](https://www.google.com/calendar/selfsched?sstoken=UUNSN00zS0MyYmNtfGRlZmF1bHR8ZTRiNzY5NWJkNmEyY2M4NTI5N2QyN2Q0MzQ0ZjRkMzA) or just email me and we'll figure out a time)
 
+## Table of Contents
+
+  * [Course Description](#course-description)
+  * [Course Philosophy](#course-philosophy-forgive-the-pretension)
+  * [Course Prerequisites](#course-prerequisites)
+  * [Course Suggest-quisites](#course-suggest-quisites)
+    * [HTML/CSS/Javascript](#htmlcssjavascript)
+    * [GitHub](#github)
+  * [Odds 'n Ends](#odds-n-ends)
+    * [GitHub Student Developer Pack](#github-student-developer-pack)
+    * [Using your own laptop](#using-your-own-laptop)
+  * [Tentatively tentative schedule (it's really tentative)](#tentatively-tentative-schedule-its-really-tentative)
+  * [Boilerplate!](#boilerplate)
+    * [Student Conduct Code](#student-conduct-code)
+    * [Use of Personal Electronic Devices in the Classroom](#use-of-personal-electronic-devices-in-the-classroom)
+    * [Scholastic Dishonesty](#scholastic-dishonesty)
+    * [Makeup Work for Legitimate Absences](#makeup-work-for-legitimate-absences)
+    * [Appropriate Student Use of Class Notes and Course Materials](#appropriate-student-use-of-class-notes-and-course-materials)
+    * [Grading and Transcripts](#grading-and-transcripts)
+    * [Sexual Harassment](#sexual-harassment)
+    * [Equity, Diversity, Equal Opportunity, and Affirmative Action](#equity-diversity-equal-opportunity-and-affirmative-action)
+    * [Disability Accommodations](#disability-accommodations)
+    * [Mental Health and Stress Management](#mental-health-and-stress-management)
+    * [Academic Freedom and Responsibility](#academic-freedom-and-responsibility)
 
 ### Course Description
 
@@ -19,7 +41,7 @@ The audience for this course is anyone interested in making, using, and analyzin
 
 ### Course Philosophy *(forgive the pretension)*
 
-I want this class to be as accessible as possible. I don't want anyone to feel overwhelmed or utterly out of their depth. The nature of this class results in a highly variable group of students in terms of familiarity/comfort with the technologies we'll be talking about. Thus, I want the focus of the course to be how each individual can get what *they want* out of it. Grading exists because it's unfortunately part of the fabric of our education system, but I don't want any student fixating on a grade here. Rather, I'd like to ask each of you where you're coming from and where you'd like to go, then spend the semester getting there!
+I want this class to be as accessible as possible. I don't want anyone to feel overwhelmed or utterly out of their depth. The nature of this class results in a highly variable group of students in terms of familiarity/comfort with the technologies we'll be talking about. Thus, I want the focus of the course to be how each individual can get what *they want* out of it. Grading exists because it's unfortunately part of the fabric of our education system, but I don't want any student fixating on a grade here. Rather, I'd like to ask each of you where you're coming from and where you'd like to go, then spend the semester getting there! That said, learning new things *should* take you out of your comfort zone, at least once in a while.
 
 ### Course Prerequisites
 
@@ -27,10 +49,9 @@ You've taken GEOG 5561 or some sort of Introductory GIS course
 *--or--*  
 You're enrolled in the MGIS program  
 *--or--*  
-You've contacted me
+You've contacted me (please don't hesitate to get in touch)
 
 ### Course Suggest-quisites
-
 
 #### HTML/CSS/Javascript
 
@@ -42,9 +63,10 @@ Some resources you *may* want to check out before we start meeting in September.
     + [HTML & CSS](http://www.codecademy.com/en/tracks/web)
     + [Javascript](http://www.codecademy.com/en/tracks/javascript)
 + [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
-+ [Lynda.com -- HTML](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html)\*
-+ [Lynda.com -- CSS](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)\*
-+ [Lynda.com -- Javascript](http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html)\*
++ [Lynda.com](http://lynda.umn.edu/)\*
+    + [HTML](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html)\*
+    + [CSS](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)\*
+    + [Javascript](http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html)\*
 
 \* Requires a UMN account or other access to Lynda.com resources
 
@@ -67,26 +89,43 @@ https://education.github.com/pack
 
 Since most of what we'll be working on is web-based, if you have a laptop you can use that for all of our assignments. That said, we will still meet in the 455 computer lab, so you definitely don't need a laptop. For installing stuff, it will be more flexible if you bring your own machine.
 
+### Potential list of technologies/topics (no particular order)
++ Basic comparison of mapping libraries
++ MapBox
++ Leaflet
++ Bootstrap
++ ArcGIS Javascript API
++ Publishing and using web services
++ JSON/GeoJSON/TopoJSON
++ Data viz andD3
++ Git and GitHub
++ Turf.js
++ CartoCSS
++ CartoDB
++ Timeline.js
++ Odyssey.js
+
+
 ### Tentatively tentative schedule (it's really tentative)
 
-| **Date**  | **Topic**                     | **Due**  |
-|:---------:|:--------------------------------|:----:|
-| **9/8**   |  Introductions                |     |
-| **9/15**  |                               |     |
-| **9/22**  |                               |     |
-| **9/29**  |                               |     |
-| **10/6**  |                               |     |
-| **10/13** |                               |     |
-| **10/20** |                               |     |
-| **10/27** |                               |     |
-| **11/3**  |                               |     |
-| **11/10** |                               |     |
-| **11/17** |                               |     |
-| **11/24** | No Class?                     | Nothing! |
-| **12/1**  |                               |     |
-| **12/8**  |                               |     |
-| **12/15** |                               |     |
-|           |                               |     |
+| **Date**  | **Topic**                                  | **Due**  |
+|:---------:|:-------------------------------------------|:--------:|
+| **9/8**   |  Introductions                             |          |
+| **9/15**  |                                            |          |
+| **9/22**  |                                            |          |
+| **9/29**  |                                            |          |
+| **10/6**  |  GIS/LIS Practice session                  |          |
+| **10/13** |  NACIS Practice session                    |          |
+| **10/20** |                                            |          |
+| **10/27** |                                            |          |
+| **11/3**  |                                            |          |
+| **11/10** |                                            |          |
+| **11/17** |                                            |          |
+| **11/24** | No Class?                                  | Nothing! |
+| **12/1**  |                                            |          |
+| **12/8**  |                                            |          |
+| **12/15** |                                            |          |
+|   **?**   | "Final exam"/course wrap-up                |          |
 
 
 
