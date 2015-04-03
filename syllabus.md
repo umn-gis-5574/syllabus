@@ -21,6 +21,7 @@
   * [Odds 'n Ends](#odds-n-ends)
     * [GitHub Student Developer Pack](#github-student-developer-pack)
     * [Using your own laptop](#using-your-own-laptop)
+  * [Potential Topics/Technologies](#potential-list-of-technologiestopics-no-particular-order)
   * [Tentatively tentative schedule (it's really tentative)](#tentatively-tentative-schedule-its-really-tentative)
   * [Boilerplate!](#boilerplate)
     * [Student Conduct Code](#student-conduct-code)
