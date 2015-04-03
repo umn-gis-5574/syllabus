@@ -37,9 +37,9 @@
 
 ### Course Description
 
-The audience for this course is anyone interested in making, using, and analyzing maps/spatial data on the Web. Rather than attempt to try *everything* out there in a single semester, we'll set the stage early in the semester with quick overviews and demo and then settle in to work on individual projects for the rest of the semester
+The audience for this course is anyone interested in making, using, and analyzing maps/spatial data on the Web. 
 
-### Course Philosophy *(forgive the pretension)*
+### Course Philosophy
 
 I want this class to be as accessible as possible. I don't want anyone to feel overwhelmed or utterly out of their depth. The nature of this class results in a highly variable group of students in terms of familiarity/comfort with the technologies we'll be talking about. Thus, I want the focus of the course to be how each individual can get what *they want* out of it. Grading exists because it's unfortunately part of the fabric of our education system, but I don't want any student fixating on a grade here. Rather, I'd like to ask each of you where you're coming from and where you'd like to go, then spend the semester getting there! That said, learning new things *should* take you out of your comfort zone, at least once in a while.
 
@@ -110,7 +110,7 @@ Since most of what we'll be working on is web-based, if you have a laptop you ca
 
 | **Date**  | **Topic**                                  | **Due**  |
 |:---------:|:-------------------------------------------|:--------:|
-| **9/8**   |  Introductions                             |          |
+| **9/8**   |  Introductions: *or, gitting to know you*  |          |
 | **9/15**  |                                            |          |
 | **9/22**  |                                            |          |
 | **9/29**  |                                            |          |
@@ -121,7 +121,7 @@ Since most of what we'll be working on is web-based, if you have a laptop you ca
 | **11/3**  |                                            |          |
 | **11/10** |                                            |          |
 | **11/17** |                                            |          |
-| **11/24** | No Class?                                  | Nothing! |
+| **11/24** | No Class (Thanksgiving Week)               | Nothing! |
 | **12/1**  |                                            |          |
 | **12/8**  |                                            |          |
 | **12/15** |                                            |          |
