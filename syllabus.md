@@ -98,7 +98,7 @@ Since most of what we'll be working on is web-based, if you have a laptop you ca
 + ArcGIS Javascript API
 + Publishing and using web services
 + JSON/GeoJSON/TopoJSON
-+ Data viz andD3
++ Data viz and D3
 + Git and GitHub
 + Turf.js
 + CartoCSS
