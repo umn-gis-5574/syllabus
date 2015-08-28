@@ -86,10 +86,6 @@ We'll be using GitHub for turning in work and collaborating. If you aren't famil
 Available for any student. I recommend signing up for it, as it's worth it if only for the $100 Digital Ocean credit.  
 https://education.github.com/pack
 
-#### Using your own laptop
-
-Since most of what we'll be working on is web-based, if you have a laptop you can use that for all of our assignments. That said, we will still meet in the 455 computer lab, so you definitely don't need a laptop. For installing stuff, it will be more flexible if you bring your own machine.
-
 ### Potential list of technologies/topics (no particular order)
 + Basic comparison of mapping libraries
 + MapBox
