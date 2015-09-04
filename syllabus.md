@@ -18,9 +18,7 @@
   * [Course Suggest-quisites](#course-suggest-quisites)
     * [HTML/CSS/Javascript](#htmlcssjavascript)
     * [GitHub](#github)
-  * [Odds 'n Ends](#odds-n-ends)
-    * [GitHub Student Developer Pack](#github-student-developer-pack)
-    * [Using your own laptop](#using-your-own-laptop)
+  * [GitHub Student Developer Pack](#github-student-developer-pack)
   * [Potential Topics/Technologies](#potential-list-of-technologiestopics-no-particular-order)
   * [Tentatively tentative schedule (it's really tentative)](#tentatively-tentative-schedule-its-really-tentative)
   * [Boilerplate!](#boilerplate)
@@ -60,6 +58,7 @@ The course will involve some degree of writing code, *however*, there is no requ
 
 Some resources you *may* want to check out before we start meeting in September. Try 'em out and see which approach works best for your style of learning. I've not engaged much with them myself, but I've heard good things:
 
++ For a general introduction to programming, MIT's OpenCourseware has a [great course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) available online
 + [Code Academy](http://www.codecademy.com)
     + [HTML & CSS](http://www.codecademy.com/en/tracks/web)
     + [Javascript](http://www.codecademy.com/en/tracks/javascript)
@@ -68,6 +67,7 @@ Some resources you *may* want to check out before we start meeting in September.
     + [HTML](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html)\*
     + [CSS](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)\*
     + [Javascript](http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html)\*
++ The Mozilla Developer Network has a great [collection of tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials) available introducing all of the topics we'll be covering
 
 \* Requires a UMN account or other access to Lynda.com resources
 
