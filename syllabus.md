@@ -78,6 +78,7 @@ We'll be using GitHub for turning in work and collaborating. If you aren't famil
 + [Try Git](https://www.codeschool.com/courses/try-git)
 + [Learn Git](http://www.git-tower.com/learn/)
 + [Git - the simple guide (*some colorful language*)](http://rogerdudler.github.io/git-guide/)
++ [Learn Git Branching](http://pcottle.github.io/learnGitBranching/), a sort of fun visual introduction
 
 ### Odds 'n Ends
 
