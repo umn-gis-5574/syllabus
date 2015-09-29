@@ -108,12 +108,12 @@ https://education.github.com/pack
 
 | **Date**  | **Topic**                                  | **Due**  |
 |:---------:|:-------------------------------------------|:--------:|
-| **9/8**   |  Introductions: *or, gitting to know you*  |          |
-| **9/15**  |                                            |          |
-| **9/22**  |                                            |          |
-| **9/29**  |                                            |          |
-| **10/6**  |  GIS/LIS Practice session                  |          |
-| **10/13** |  NACIS Practice session                    |          |
+| **9/8**   | Introductions: *or, gitting to know you*   |          |
+| **9/15**  | HTML, CSS, JavaScript and JQuery deep dive |          |
+| **9/22**  | Web mapping library comparison             |          |
+| **9/29**  | Discussing projects and introducing CartoDB |         |
+| **10/6**  |                                            |          |
+| **10/13** |                                            |          |
 | **10/20** |                                            |          |
 | **10/27** |                                            |          |
 | **11/3**  |                                            |          |
