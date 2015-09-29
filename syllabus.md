@@ -106,13 +106,13 @@ https://education.github.com/pack
 
 ### Tentatively tentative schedule (it's really tentative)
 
-| **Date**  | **Topic**                                  | **Due**  |
+| **Date**  | **Topic**                                  | **Assignment**  |
 |:---------:|:-------------------------------------------|:--------:|
 | **9/8**   | Introductions: *or, gitting to know you*   |          |
 | **9/15**  | HTML, CSS, JavaScript and JQuery deep dive |          |
 | **9/22**  | Web mapping library comparison             |          |
-| **9/29**  | Discussing projects and introducing CartoDB |         |
-| **10/6**  |                                            |          |
+| **9/29**  | Discussing projects and introducing CartoDB |  Post a public link to your CartoDB map and think about the project you want to work on        |
+| **10/6**  | Projects and Identifying Data Needs        |          |
 | **10/13** |                                            |          |
 | **10/20** |                                            |          |
 | **10/27** |                                            |          |
